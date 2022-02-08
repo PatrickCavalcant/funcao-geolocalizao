@@ -5,6 +5,6 @@
 
 <h3>Mapa Luziânia</h3>
   <p align="center">
-    <img src="Mapa.png" width="800">
+    <img src="Mapa Luziânia/Mapa.png" width="800">
   </p>
 
